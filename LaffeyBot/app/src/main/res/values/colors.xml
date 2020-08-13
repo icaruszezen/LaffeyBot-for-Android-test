@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--BY zezen-->
+<!--颜色定义文件-->
 <resources>
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
